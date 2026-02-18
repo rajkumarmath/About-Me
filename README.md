@@ -63,6 +63,8 @@ I am actively seeking internship opportunities in:
 
 [check Out](https://ai-resume-screener-frontend.vercel.app/login)
 
+
+
 A full-stack AI-powered resume screening system.
 
 - Backend built with FastAPI
@@ -82,6 +84,8 @@ This project demonstrates:
 ### 📊 Customer Churn Prediction (ML + Deployment)
 
 [check out](https://churn-prediction-9dgmcvmccbxdsx8qrczmzt.streamlit.app/)
+
+
 Machine learning model to predict customer churn.
 
 - Data preprocessing pipeline
@@ -147,7 +151,7 @@ I am particularly interested in:
 
 GitHub:[Here](https://github.com/rajkumarmath)  
 LinkedIn:[Click here](https://www.linkedin.com/in/rajkumar-math-70432a389?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-Email: [click here](rajkumarmath21@gmail.com)
+Email: rajkumarmath21@gmail.com 
 
 ---
 
